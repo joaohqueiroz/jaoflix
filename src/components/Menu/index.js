@@ -11,7 +11,7 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="Jãoflix logo" />
             </Link>
 
-            <Button as={Link} className="ButtonLink" to="/cadastro/video">
+            <Button as={Link} to="/cadastro/video">
                 Novo vídeo
             </Button>
         </nav>

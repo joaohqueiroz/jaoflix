@@ -17,7 +17,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript."}
+        videoDescription={"Sr. Wilson embarca em mais um episódio da série FFG e o jogo da vez é Battletoads!"}
       />
       <Carousel
         ignoreFirstVideo

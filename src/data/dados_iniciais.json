@@ -1,12 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Games",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "FFG - Battletoads O Pior Multiplayer Do Mundo!",
+          "url": "https://www.youtube.com/watch?v=aaWz5ac05Fs"
+        },
+        {
+          "titulo": "Don't Starve Together - Os Fantasmas Se Divertem",
+          "url": "https://www.youtube.com/watch?v=SP098JvC_M0"
+        },
+        {
+          "titulo": "Jogando com os DUBLADORES de VALORANT!",
+          "url": "https://www.youtube.com/watch?v=kz-xR6BxmD4"
+        },
+        {
+          "titulo": "Análise do Bittboy - O Portátil com Vários Emuladores",
+          "url": "https://www.youtube.com/watch?v=yJxgxMAs7Tk"
+        },
+        {
+          "titulo": "Começando uma incredible aventura massa em busca do nada existente",
+          "url": "https://www.youtube.com/watch?v=CLvPy7yNJ2I"
+        }
+      ]
+    },
+    {
+      "titulo": "Programação Web",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Escolha a sua formação na Alura",
+        "url": "https://www.alura.com.br/"
       },
       "videos": [
         {
@@ -40,17 +70,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
+        },
         {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
@@ -70,36 +90,32 @@
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
+        }        
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Tecnologia e Reviews",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Chegou minha XIAOMI Mi Band 5 Chinesa, mas não do jeito que eu queria! CULPA DOS CORREIOS?",
+          "url": "https://www.youtube.com/watch?v=CmTV4bBiHgg"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "ALEXA LIGUE O COMPUTADOR | metodo definitivo!",
+          "url": "https://www.youtube.com/watch?v=MJrtMShr1F4"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Echo Studio - Essa vai te Surpreender! Simplesmente o MELHOR SOM! 5 Falantes em uma Alexa! Unboxing",
+          "url": "https://www.youtube.com/watch?v=4omLCdyKLjk"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Fiz um ESPELHO INTELIGENTE (Smart Mirror)",
+          "url": "https://www.youtube.com/watch?v=Z1eOakt0ON8"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "XIAOMI REDMI NOTE 9 vale a pena? CONTINUA o MELHOR CUSTO BENEFÍCIO? // Análise Review Completo!",
+          "url": "https://www.youtube.com/watch?v=89XzlH68XwU"
         }
       ]
     }
