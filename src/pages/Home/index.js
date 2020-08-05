@@ -13,11 +13,11 @@ const AppWrapper = styled.div`
 function Home() {
   return (
     <AppWrapper>
-      <Menu/>
+      <Menu />
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Sr. Wilson embarca em mais um episódio da série FFG e o jogo da vez é Battletoads!"}
+        videoDescription="Sr. Wilson embarca em mais um episódio da série FFG e o jogo da vez é Battletoads!"
       />
       <Carousel
         ignoreFirstVideo
@@ -29,7 +29,7 @@ function Home() {
       <Carousel
         category={dadosIniciais.categorias[2]}
       />
-      <Footer/>
+      <Footer />
     </AppWrapper>
   );
 }

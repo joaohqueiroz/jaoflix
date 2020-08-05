@@ -1,0 +1,126 @@
+{
+    "categorias": [
+      {
+        "id": 1,  
+        "titulo": "Games",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Formação de Jogos na Alura",
+          "url": "https://www.alura.com.br/formacao-jogos-unity"
+        },
+        "videos": [
+          {
+            "titulo": "FFG - Battletoads O Pior Multiplayer Do Mundo!",
+            "url": "https://www.youtube.com/watch?v=aaWz5ac05Fs"
+          },
+          {
+            "titulo": "Don't Starve Together - Os Fantasmas Se Divertem",
+            "url": "https://www.youtube.com/watch?v=SP098JvC_M0"
+          },
+          {
+            "titulo": "Jogando com os DUBLADORES de VALORANT!",
+            "url": "https://www.youtube.com/watch?v=kz-xR6BxmD4"
+          },
+          {
+            "titulo": "Análise do Bittboy - O Portátil com Vários Emuladores",
+            "url": "https://www.youtube.com/watch?v=yJxgxMAs7Tk"
+          },
+          {
+            "titulo": "Começando uma incredible aventura massa em busca do nada existente",
+            "url": "https://www.youtube.com/watch?v=CLvPy7yNJ2I"
+          }
+        ]
+      },
+      {
+        "id": 2,  
+        "titulo": "Programação Web",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Escolha a sua formação na Alura",
+          "url": "https://www.alura.com.br/"
+        },
+        "videos": [
+          {
+            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          },
+          {
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          },
+          {
+            "titulo": "Componentização com VanillaJS #AluraMais",
+            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          },
+          {
+            "titulo": "Pare de chutar e aprenda a display: inline #01",
+            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          },
+          {
+            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          },
+          {
+            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          },
+          {
+            "titulo": "Novidades do Angular v9",
+            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          },
+          {
+            "titulo": "Base para aprender os frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          },
+          {
+            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          },
+          {
+            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          },
+          {
+            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          },
+          {
+            "titulo": "API: Dicionário do Programador",
+            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          }, 
+          {
+            "titulo": "Usando Git Direito",
+            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          }        
+        ]
+      },
+      {
+        "id": 3,  
+        "titulo": "Tecnologia e Reviews",
+        "cor": "red",
+        "videos": [
+          {
+            "titulo": "Chegou minha XIAOMI Mi Band 5 Chinesa, mas não do jeito que eu queria! CULPA DOS CORREIOS?",
+            "url": "https://www.youtube.com/watch?v=CmTV4bBiHgg"
+          },
+          {
+            "titulo": "ALEXA LIGUE O COMPUTADOR | metodo definitivo!",
+            "url": "https://www.youtube.com/watch?v=MJrtMShr1F4"
+          },
+          {
+            "titulo": "Echo Studio - Essa vai te Surpreender! Simplesmente o MELHOR SOM! 5 Falantes em uma Alexa! Unboxing",
+            "url": "https://www.youtube.com/watch?v=4omLCdyKLjk"
+          },
+          {
+            "titulo": "Fiz um ESPELHO INTELIGENTE (Smart Mirror)",
+            "url": "https://www.youtube.com/watch?v=Z1eOakt0ON8"
+          },
+          {
+            "titulo": "XIAOMI REDMI NOTE 9 vale a pena? CONTINUA o MELHOR CUSTO BENEFÍCIO? // Análise Review Completo!",
+            "url": "https://www.youtube.com/watch?v=89XzlH68XwU"
+          }
+        ]
+      }
+    ]
+  }
